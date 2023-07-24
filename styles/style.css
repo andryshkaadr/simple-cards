@@ -18,7 +18,7 @@ body {
 .card-wrapper {
     max-width: 900px;
     margin: 0 auto;
-    padding: 0px 30px;
+    padding: 20px 30px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
